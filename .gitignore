@@ -1,0 +1,12 @@
+# Ambientes Virtuais
+bin/
+include/
+lib/
+lib64/
+venv/
+pyvenv.cfg
+
+# Arquivos do VS Code e temporários do Python
+.vscode/
+__pycache__/
+*.pyc
