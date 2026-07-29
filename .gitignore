@@ -1,4 +1,4 @@
-# Ambientes Virtuais
+# Ambientes virtuais e dependências
 bin/
 include/
 lib/
@@ -6,7 +6,7 @@ lib64/
 venv/
 pyvenv.cfg
 
-# Arquivos do VS Code e temporários do Python
+# Configurações do VS Code e cache do Python
 .vscode/
 __pycache__/
 *.pyc
