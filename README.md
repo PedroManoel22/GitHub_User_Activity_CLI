@@ -16,7 +16,6 @@ Projeto desenvolvido para resolver o desafio [GitHub User Activity](https://road
 
 - **Zero Dependências Externas:** Desenvolvido puramente com a biblioteca padrão do Python (`urllib.request`, `json`, `argparse`), garantindo instalação e execução instantâneas.
 - **Arquitetura Limpa (Clean Code):** Separação clara de responsabilidades entre a interface de linha de comando (CLI) e a camada de integração com a API.
-- **Padrão de Projeto Dispatch Table:** Elimina encadeamentos gigantescos de `if/elif/else`, facilitando a manutenção e adição de novos tipos de eventos.
 - **Tratamento Defensivo de Erros:** Manipulação graciosa de falhas de conexão, limites da API, erros HTTP (como `404 Not Found`) e validações de input.
 
 ---
